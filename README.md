@@ -1,2 +1,1 @@
 # odin_cracker
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/36971bda58ac4bd7bfa782e56fc1234c)](https://www.codacy.com/app/lumonoli/odin_cracker?utm_source=github.com&utm_medium=referral&utm_content=monolli/odin_cracker&utm_campaign=badger)
